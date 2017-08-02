@@ -335,7 +335,6 @@
 }
 .chat-box1{
 	height: 40px;width: 100%;
-	background-color:white;
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content:flex-start;
@@ -360,7 +359,7 @@
 	height:15px;width:15px;
 	transform:rotate(45deg);
 	position:relative;
-	left:7.5px;top:7.5px;
+	left:-7.5px;top:7.5px;
 	border: 1px solid #EEEEEE;
 	background:#EEEEEE;
 }
@@ -368,7 +367,7 @@
 	display: flex;
 	line-height: 32px;
 	font-size: 90%;
-	font-weight: 600;
+	font-weight: 400;
 	font-family: "微软雅黑";
 	background-color:white;
 	border:1px solid #EEEEEE;
@@ -377,7 +376,6 @@
 }
 .chat-box2{
 	height: 40px;width: 100%;
-	background-color:white;
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content:flex-end;
@@ -402,7 +400,7 @@
 	height:15px;width:15px;
 	transform:rotate(45deg);
 	position:relative;
-	right:7.5px;top:7.5px;
+	right:2.5px;top:7.5px;
 	border: 1px solid #66BB6A;
 	background:#66BB6A;
 }
@@ -410,7 +408,7 @@
 	display: flex;
 	line-height: 32px;
 	font-size: 90%;
-	font-weight: 600;
+	font-weight: 400;
 	font-family: "微软雅黑";
 	background-color:white;
 	border:1px solid #66BB6A;
